@@ -1,0 +1,51 @@
+BACK:
+1.	bazis modelireba - done!
+1.1.	testing…
+
+2.	avtorizacia
+2.1.	avtorizaciis formis damushaveba
+2.2.	sesiis sheqmna
+
+3.	registracia
+3.1.	saregistracio formis damushaveba
+
+4.	werilebi
+4.1.	gagzavnili werilis damushaveba
+4.2.	werilebis siis damushaveba
+
+5.	parametrebi
+5.1.	parolis shecvlis motxovnis damushaveba
+5.2.	gamosvlis motxovna
+
+6.	chatebi
+6.1.	chatebis siis damushaveba
+6.2.	chatis sheqmna (piraduli, group chat.
+6.3.	chatshi megobris damateba (amoshla sakutari tavis.
+
+7.	megobrebi
+7.1.	megobris damateba
+7.2.	megobrobis motxovnaze dasturi (uaryofa.
+7.3.	megobris washla
+7.4.	megobrebis siis damushaveba
+7.5.	megobrobis motxovnebis siis damushaveba
+
+FRONT:
+1.	avtorizacia
+
+2.	registracia
+
+3.	chatebi
+3.1.	chatebis sia
+3.2.	werilebis sia
+3.3.	werilis gagzavna
+3.4.	werilis redaqtireba
+3.5.	chatis sheqmna
+
+4.	megobrebi
+4.1.	megobrobis motxovnebi
+4.2.	megobrebis sia
+4.2.1.	megobris washla
+4.3.	megobris damateba
+
+5.	parametrebi
+5.1.	parolis shecvla
